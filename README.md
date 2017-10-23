@@ -6,3 +6,5 @@ In this tutorial, we’ll be using ZURB’s Foundation for Emails to create a si
 We’ll be using a design put together with Web Wireframe Kit available from Envato Elements.
 
 [View the demo](http://tutsplus.github.io/foundation-for-emails-how-to-use-panini-partials/dist)
+
+![preview](https://raw.githubusercontent.com/tutsplus/foundation-for-emails-how-to-use-panini-partials/master/final.png)
